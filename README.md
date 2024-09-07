@@ -1,4 +1,4 @@
-## **README.md - Buscador da Saga Star Wars**
+## **Buscador da Saga Star Wars Imersão Dev Alura com Gemini**
 
 ### **Sobre o Projeto**
 
